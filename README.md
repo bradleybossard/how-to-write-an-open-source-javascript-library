@@ -4,6 +4,11 @@
 * [Data-Driven Tests in JavaScript Using Mocha - Alex Booker](https://booker.codes/data-driven-tests-in-javascript-using-mocha/)
 * [Automating Javascript Testing, Deploy with npm & Travis CI to Github (part 3) – Oren Farhi – Thoughts On Javascript and Development](http://orizens.com/wp/topics/automating-javascript-testing-deploy-with-travis-ci-part-3/)
 * [inikulin/publish-please - Alternative to semantic-release ?](https://github.com/inikulin/publish-please)
+* [Design and Build Your Own JavaScript Library: Tips & Tricks](https://www.sitepoint.com/design-and-build-your-own-javascript-library/)
+* [ES2015 modules to UMD transform · Babel](http://babeljs.io/docs/plugins/transform-es2015-modules-umd/)
+* [Use JSDoc: Index](http://usejsdoc.org/)
+* [Choose an open source license - Choose a License](http://choosealicense.com/)
+
 
 ### Step 1 - Create a Github repo and clone it on your machine
 
